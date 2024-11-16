@@ -1,4 +1,4 @@
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Deserialize, Serialize)]
-pub struct RdbcTrigger {}
+pub struct RdbcTriggerMeta {}
